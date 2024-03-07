@@ -1,4 +1,3 @@
-# Industrial-Copper-Modelling
 # **Industrial Copper Modeling**
 
 ## **Problem Statement:**
